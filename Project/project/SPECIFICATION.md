@@ -8,7 +8,7 @@ Table of Contents
     - [Sequence Diagram](#sequence-diagram)
 
 # Overview
-
+h
 This document provides an overview of the application.
 
 It outlines the use cases, i.e. desirable functionality, in addition to requirements for the smart contract and the user interface.

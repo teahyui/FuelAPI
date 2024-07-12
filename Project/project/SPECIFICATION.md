@@ -10,7 +10,7 @@ Table of Contents
 # Overview
 hf3
 This document provides an overview of the application.
-42vsd
+42vs
 It outlines the use cases, i.e. desirable functionality, in addition to requirements for the smart contract and the user interface.
 
 # Use Cases

@@ -8,7 +8,7 @@ Table of Contents
     - [Sequence Diagram](#sequence-diagram)
 
 # Overview
-hf3v
+hf3
 This document provides an overview of the application.
 42vsd
 It outlines the use cases, i.e. desirable functionality, in addition to requirements for the smart contract and the user interface.
